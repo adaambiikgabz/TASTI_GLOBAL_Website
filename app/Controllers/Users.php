@@ -62,6 +62,22 @@ class Users extends BaseController
         return view('dashboard', ['url' => $url]); 
     }
 
+    // About page
+public function about()
+{
+    $data = [];
+
+    // Load any helpers or libraries if needed
+    helper(['form']);
+
+    // Optionally, you can generate a URL for the about page
+    $url = route_to('about');
+
+    // Load the view for the about page and pass any data
+    return view('about', ['url' => $url]); 
+}
+
+
     // Crop varieties data input  page
     public function cropVarieties()
     {

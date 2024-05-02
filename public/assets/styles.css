@@ -1113,6 +1113,26 @@ body{
     display: block;
     box-shadow: none;
   }
+.image-with-text {
+    display: flex; /* Use flexbox layout */
+    align-items: center; /* Align items vertically */
+}
+
+.text-container {
+    margin-left: 20px; /* Adjust margin to create space between image and text */
+}
+.third-image {
+    width: 200px;
+    height: auto; /* Maintain aspect ratio */
+}
+.third-image {
+    margin-right: 20px; /* Add right margin */
+    padding: 10px; /* Add padding around the image */
+}
+.third-image {
+    width: 300px;
+    height: 200px;
+}
 
  
 }

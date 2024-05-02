@@ -49,6 +49,7 @@ $routes->match(['get','post'],'mainmarketable', 'Users::viewmarket');
 $routes->match(['get','post'],'mainothertechnologies', 'Users::viewother');
 $routes->match(['get','post'],'mainprocessedfoods', 'Users::viewprocessed');
 $routes->match(['get','post'],'search', 'Users::search');
+$routes->match(['get', 'post'], 'about', 'Users::about');
 
  
 

@@ -27,7 +27,7 @@
 
 	<nav class="navbar navbar-expand-md navbar-dark">
   <a class="navbar-brand" href="/">
-    <img src="images/csirlogo.png" alt="CSIR Logo" style="width: 120px; height: auto;">
+    <img src="images/tastilogo.png" alt="TASTI GLOBAL" style="width: 120px; height: auto;">
   </a>
       <div class="container">
         <a class="navbar-brand px-2" href="index.html">Contact Us</a>
@@ -70,8 +70,8 @@
 					<a href="" class="px-4 py-5 bg-white shadow text-center d-block match-height">
 						<i class="ti-location-pin icon text-primary d-block mb-4"></i>
 						<h3 class="mb-3 mt-0">Address</h3>
-						<p class="mb-0">Augustino Neto Rd. Council</p>
-            <p class="mb-0">Close, Airport Residential Area</p>
+						<p class="mb-0">Berekum</p>
+            <p class="mb-0">Close, Amango Ase</p>
 					</a>
 				</div>
 			
@@ -79,14 +79,14 @@
 					<a href="" class="px-4 py-5 bg-white shadow text-center d-block match-height">
 						<i class="ti-mobile icon text-primary d-block mb-4"></i>
 						<h3 class="mb-3 mt-0">Phone</h3>
-						<p class="mb-0"> +233 0302 780 709</p>
+						<p class="mb-0"> +233 0204940336</p>
 					</a>
 				</div>
 				<div class="col-lg-4 col-sm-6 mb-4">
 					<a href="" class="px-4 py-5 bg-white shadow text-center d-block match-height">
 						<i class="ti-email icon text-primary d-block mb-4"></i>
 						<h3 class="mb-3 mt-0">Email</h3>
-						<p class="mb-0">insti@csir.org.gh</p>
+						<p class="mb-0">tasti@gmail.com</p>
 					</a>
 				</div>
 				<div class="col-lg-4 col-sm-6 mb-4">
@@ -104,7 +104,7 @@
 						<h4 class="mb-4">If you have any question
 please do not hesitate to send us a message, call or come right up to our doorstep.</h4>
 						<p  class="mb-4"> You can read more about  us on our website 
-	               </p><p>Visit Our WebSite <a href="https://insti.csir.org.gh/">CSIR-INSTI</a>.</p>
+	               </p><p>Visit Our WebSite <a href="">TASTI GLOBAL</a>.</p>
 
 						
 					</div>
@@ -123,12 +123,12 @@ please do not hesitate to send us a message, call or come right up to our doorst
         </div>
         <div class="col-md-4 text-md-right text-center">
           <ul class="list-inline">
-            <li class="list-inline-item"><a class="text-color d-inline-block p-2" href="http://facebook.com/insti.csir100"><i
-                  class="ti-facebook"></i></a></li>
-            <li class="list-inline-item"><a class="text-color d-inline-block p-2" href="https://twitter.com/csir_insti100"><i
-                  class="ti-twitter-alt"></i></a></li>
-            <li class="list-inline-item"><a class="text-color d-inline-block p-2" href="https://www.instagram.com/insti_csir/"><i class="ti-instagram"></i></a>
-            </li>
+           <li class="list-inline-item"><a class="text-color d-inline-block p-2" href="https://m.facebook.com/profile.php?id=100087860419445&eav=AfZ29_lQdehT-GgFgchncjtPczo6ADKpYxbxUQoO7BrZHrKWF1I2V2F4i6914wkbJyE&tsid=0.9813945892825863&source=result  "><i
+									class="ti-facebook"></i></a></li>
+						<li class="list-inline-item"><a class="text-color d-inline-block p-2" href="https://twitter.com/globaltasti?s=11&t=eMx_OVFmwWZytQfWWuPhrA  "><i
+									class="ti-twitter-alt"></i></a></li>
+						<li class="list-inline-item"><a class="text-color d-inline-block p-2" href="https://instagram.com/tastiglobal?igshid=YmMyMTA2M2Y= "><i class="ti-instagram"></i></a>
+						</li>
            
           </ul>
         </div>

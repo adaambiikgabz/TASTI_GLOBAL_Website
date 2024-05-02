@@ -34,7 +34,7 @@
 
 		<nav class="navbar navbar-expand-md navbar-dark">
   <a class="navbar-brand" href="/">
-    <img src="images/csirlogo.png" alt="CSIR Logo" style="width: 120px; height: auto;">
+    <img src="images/tastilogo.png" alt="CSIR Logo" style="width: 120px; height: auto;">
   </a>
 			<div class="container">
 				<a class="navbar-brand px-2" href="index.html"></a>
@@ -68,7 +68,7 @@
 <link rel="stylesheet" href="<?= base_url('assets/styles.css') ?>">
 			<div class="row">
 				<div class="col-lg-8 text-center mx-auto">
-					<h1 class="text-white mb-3">CSIR TECHNOLOGIES</h1>
+					<h1 class="text-white mb-3">TASTI GLOBAL</h1>
 					
 					
 				</div>
@@ -92,36 +92,38 @@
 				<div class="col-lg-4 col-sm-6 mb-4">
 					<a href="/cropvarieties" class="px-4 py-5 bg-white shadow text-center d-block match-height">
 						<i class="ti-panel icon text-primary d-block mb-4"></i>
-						<h3 class="mb-3 mt-0">Crop Varieties</h3>
-						<p class="mb-0">Find information about different types of crops and their seasons</p>
+						<h3 class="mb-3 mt-0">2023 Conference</h3>
+						<p class="mb-0">Data Entry Interface</p>
 					</a>
 				</div>
 				<div class="col-lg-4 col-sm-6 mb-4">
 					<a href="/agroinput" class="px-4 py-5 bg-white shadow text-center d-block match-height">
 						<i class="ti-panel icon text-primary d-block mb-4"></i>
-						<h3 class="mb-3 mt-0">Agro Inputs</h3>
-						<p class="mb-0">Find information about different types of Agro Inputs like fertilizer among others </p>
+						<h3 class="mb-3 mt-0">2022 Conference 
+
+						</h3>
+						<p class="mb-0">Data Entry Interface</p>
 					</a>
 				</div>
 				<div class="col-lg-4 col-sm-6 mb-4">
 					<a href="/marketabletechnologies" class="px-4 py-5 bg-white shadow text-center d-block match-height">
 						<i class="ti-panel icon text-primary d-block mb-4"></i>
-						<h3 class="mb-3 mt-0">Marketable Technologies</h3>
-						<p class="mb-0">Find information on various technologies on the market that would be of great help</p>
+						<h3 class="mb-3 mt-0">2021 Conference </h3>
+						<p class="mb-0">Data Entry Interface</p>
 					</a>
 				</div>
 				<div class="col-lg-4 col-sm-6 mb-4">
 					<a href="/processedfoods" class="px-4 py-5 bg-white shadow text-center d-block match-height">
 						<i class="ti-credit-card icon text-primary d-block mb-4"></i>
-						<h3 class="mb-3 mt-0">Processed Foods </h3>
-						<p class="mb-0">Find information about different types of Foods</p>
+						<h3 class="mb-3 mt-0">2020 Conference </h3>
+						<p class="mb-0">Data Entry Interface</p>
 					</a>
 				</div>
 				<div class="col-lg-4 col-sm-6 mb-4">
 					<a href="/othertechnologies" class="px-4 py-5 bg-white shadow text-center d-block match-height">
 						<i class="ti-package icon text-primary d-block mb-4"></i>
-						<h3 class="mb-3 mt-0">Other Technologies</h3>
-						<p class="mb-0">Various technologies ranging from agriculture to industrail</p>
+						<h3 class="mb-3 mt-0">2019 Conference </h3>
+						<p class="mb-0">Data Entry Interface</p>
 					</a>
 				</div>
 			</div>
